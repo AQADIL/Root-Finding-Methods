@@ -134,7 +134,7 @@ muller_convergence.html
 **Example:**
 
 <div align="center">
-<img src="graph.png" alt="Convergence Plot" width="600"/>
+<img src="graphs/graph.png" alt="Convergence Plot" width="600"/>
 </div>
 
 ---
