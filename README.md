@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 GoRoots
+# 🚀 Go Root FINDER
 
 ### High-Performance Numerical Root-Finding Library in Go
 
@@ -32,8 +32,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GoRoots.git
-cd GoRoots
+git clone https://github.com/AQADIL/Root-Finding-Methods.git
+
 
 # Run all methods
 go run main.go
